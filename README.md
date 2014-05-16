@@ -7,7 +7,7 @@ Setup
 -----
 
 Let's say you have 3 gems, a-gem, b-gem, and c-gem, such that a-gem depends on
-g-gem and b-gem depends on c-gem.  You are developing all these gems locally,
+b-gem and b-gem depends on c-gem.  You are developing all these gems locally,
 simultaneously, and they all live as siblings in a folder.
 
 a-gem.gemspec lists b-gem as a dependency, and a-gem's Gemfile specifies the
