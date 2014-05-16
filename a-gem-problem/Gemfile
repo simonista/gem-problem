@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+# Specify your gem's dependencies in a-gem-problem.gemspec
+gemspec
+
+gem 'b-gem-problem', path: '../b-gem-problem'
